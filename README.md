@@ -8,3 +8,6 @@ and Whatsapp chats. After renaming the files you can go through them in any chea
 ## New file names
 year.month.day hours(24h).minutes.seconds filesize MB  
 i.e.: *2019-12-14 15.45.30 6MB*
+
+## Requirements
+* [ExifRead](https://pypi.org/project/ExifRead/) is needed to read the exif information of the files
